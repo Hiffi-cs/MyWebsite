@@ -1,0 +1,89 @@
+.main-form{
+    width: 94%;
+    /* margin: 5px; */
+}
+.heading{
+    text-align: center;
+    color: aqua;
+
+}
+.paragraph{
+    text-align: center;
+
+}
+.data{
+    width: 100%;
+  text-align: center;
+    margin: 10px;
+    
+
+}
+.data input{
+    width: 50%;
+    margin: 10px;
+    border-radius: 10px;
+    border-color: aqua;
+    padding: 8px;
+}
+.rmbr {
+    text-align: center; 
+    width: 58%;
+}
+.btn{
+    /* width: 20%; */
+    margin: 13px;
+    padding: 20px;
+    text-align: center;
+}
+.btn button{
+    color: white;
+    background-color: yellow;
+    border-radius: 12px;
+    border-color: yellow;
+    cursor: pointer;
+    transition: 0.5s;
+    width: 50%;
+    padding: 15px;
+}
+.ancr{
+    width: 70%;
+    justify-content: end;
+    align-items: center;
+    display: flex;
+}
+.OR{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    
+}
+hr{
+    width: 40%;
+}
+.social-media{
+    margin: 13px;
+    padding: 20px;
+    text-align: center;
+    
+}
+.social-media button{
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+    color: white;
+    border-color: white;
+    margin: 10px;
+    padding: 6px;
+    width: 20%;
+}
+.facebook-icon{
+    background-color: blue;
+}
+.google-icon{
+    background-color: orangered;
+}
+.last{
+    text-align: center;
+}
